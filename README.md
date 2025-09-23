@@ -5,11 +5,11 @@ To analyze customer orders, loyalty, and operational efficiency in order to iden
 ## Problem Statements
 
 
-1.Which product categories contribute the most to sales, and how can the company focus marketing strategies accordingly?
+1. Which product categories contribute the most to sales, and how can the company focus marketing strategies accordingly?
 
-2.Does applying a coupon code significantly affect customer loyalty scores, and what does this mean for promotional strategies?
+2. Does applying a coupon code significantly affect customer loyalty scores, and what does this mean for promotional strategies?
 
-3.Which regions or cities show the highest return rates, and how can logistics or product quality be improved to minimize returns?
+3. Which regions or cities show the highest return rates, and how can logistics or product quality be improved to minimize returns?
 
 
 
@@ -17,11 +17,11 @@ To analyze customer orders, loyalty, and operational efficiency in order to iden
 
 ## Recommendations
 
-I.For Product Sales: Focus marketing campaigns on the top 2–3 performing categories, while also investigating why lower-selling categories underperform (pricing, demand, or distribution issues).
+I. For Product Sales: Focus marketing campaigns on the top 2–3 performing categories, while also investigating why lower-selling categories underperform (pricing, demand, or distribution issues).
 
-II.For Coupons & Loyalty: Since coupon users show higher loyalty scores, consider targeted coupon campaigns for low-loyalty or high-churn-risk customers.
+II. For Coupons & Loyalty: Since coupon users show higher loyalty scores, consider targeted coupon campaigns for low-loyalty or high-churn-risk customers.
 
-III.For Returns: In regions/cities with high return rates, investigate product quality issues, delivery problems, or mismatched customer expectations. Partner with logistics teams to optimize shipping methods and reduce delays.
+III. For Returns: In regions/cities with high return rates, investigate product quality issues, delivery problems, or mismatched customer expectations. Partner with logistics teams to optimize shipping methods and reduce delays.
 
 ## Conclusion
 
