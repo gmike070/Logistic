@@ -1,3 +1,5 @@
+# Customer Orders, Sales, and Loyalty Dataset using python
+
 ## Objective
 
 To analyze customer orders, loyalty, and operational efficiency in order to identify sales patterns, customer retention drivers, and operational bottlenecks, ultimately helping the business improve revenue, reduce churn, and enhance customer satisfaction.
@@ -11,9 +13,38 @@ To analyze customer orders, loyalty, and operational efficiency in order to iden
 
 3. Which regions or cities show the highest return rates, and how can logistics or product quality be improved to minimize returns?
 
+## Setting up the environment
+Installing the required libraries:
+
+•	We need Numpy for mathematical operation
+
+•	Pandas for Dataframe Manipulation
+
+•	Seaborn and Matplotlib for data visualization
+
+•	And finally Jupyter Notebook to build an interactive ipython notebook
+
+Python Code (Step-by-Step)
+Step 1: Import Libraries
+ ```python
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    
+ ```
+
+Step 2: Load and Inspect the Dataset Python:
+
+Step 3: Data Cleaning & Preprocessing Python code:
+
+Analysis 1 Top product categories by total sales 
 
 
 
+Analysis 2 Coupon vs No Coupon LoyaltyScore 
+
+
+
+Analysis 3 Return rates by Region
 
 ## Recommendations
 
