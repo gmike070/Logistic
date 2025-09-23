@@ -87,6 +87,7 @@ print(data.dtypes)
 data.head(10)
 ```
 Output:
+
 <img width="218" height="288" alt="image" src="https://github.com/user-attachments/assets/c30cac01-4143-403e-9913-5936080ef863" />
 
 <img width="622" height="312" alt="image" src="https://github.com/user-attachments/assets/d07a9ced-fc4c-495d-b8f8-e1d018c207af" />
