@@ -109,6 +109,7 @@ data.isnull().sum().sum()
 print(data.isnull().sum())        
 ```
 Output: 
+
 <img width="145" height="293" alt="image" src="https://github.com/user-attachments/assets/f422c090-2f65-42fc-bb2f-d45f08565f60" />
 
 
@@ -188,6 +189,7 @@ plt.tight_layout()
 plt.show()
 ```
 Output:
+
 <img width="548" height="382" alt="image" src="https://github.com/user-attachments/assets/7d534867-c739-4447-838c-bfdafc165884" />
 
 
