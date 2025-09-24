@@ -1,4 +1,4 @@
-# Customer Orders, Sales, and Loyalty Dataset using python
+# e-commerce company with integrated logistics operations
 
 ## Objective
 
