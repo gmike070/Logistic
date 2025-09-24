@@ -9,7 +9,7 @@ To analyze customer orders, loyalty, and operational efficiency in order to iden
 
 1. Which product categories contribute the most to sales, and how can the company focus marketing strategies accordingly?
 
-2. Does applying a coupon code significantly affect customer loyalty scores, and what does this mean for promotional strategies?
+2. Does applying a coupon code affect customer loyalty scores, and what does this mean for promotional strategies?
 
 3. Which regions or cities show the highest return rates, and how can logistics or product quality be improved to minimize returns?
 
